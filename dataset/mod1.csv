@@ -1,0 +1,749 @@
+,Movie,Worldwide,India Net,India Gross,Overseas,Budget,Verdict
+1,Pathaan,1050.0,524.0,657.0,392.0,250.0,All Time Blockbuster
+2,Baahubali 2 The Conclusion,1788.0,510.0,1416.0,371.0,250.0,All Time Blockbuster
+3,KGF Chapter 2,1208.0,435.0,1000.0,207.0,100.0,All Time Blockbuster
+4,Dangal,2070.0,374.0,535.0,1535.0,70.0,All Time Blockbuster
+5,Sanju,588.0,342.0,438.0,150.0,100.0,All Time Blockbuster
+6,PK,792.0,340.0,489.0,303.0,85.0,All Time Blockbuster
+7,Tiger Zinda Hai,558.0,339.0,433.0,124.0,210.0,Blockbuster
+8,Bajrangi Bhaijaan,922.0,320.0,432.0,489.0,90.0,All Time Blockbuster
+9,War,471.0,303.0,375.0,96.0,150.0,Blockbuster
+10,Padmaavat,585.0,302.0,400.0,185.0,215.0,Blockbuster
+11,Sultan,627.0,300.0,421.0,206.0,80.0,Blockbuster
+12,Kabir Singh,377.0,278.0,330.0,47.0,55.0,All Time Blockbuster
+13,Tanhaji: The Unsung Warrior,361.0,277.0,325.0,36.0,150.0,Blockbuster
+14,RRR,1230.0,272.0,915.0,314.0,550.0,Blockbuster
+15,Dhoom 3,558.0,271.0,372.0,186.0,175.0,All Time Blockbuster
+16,The Kashmir Files,341.0,252.0,295.0,46.0,20.0,All Time Blockbuster
+17,Brahmastra Part One: Shiva,431.0,249.0,318.0,113.0,350.0,Hit
+18,URI The Surgical Strike,341.0,244.0,293.0,48.0,70.0,All Time Blockbuster
+19,Simmba,390.0,240.0,295.0,95.0,90.0,Blockbuster
+20,Drishyam 2,342.0,239.0,282.0,59.0,50.0,All Time Blockbuster
+21,Kick,378.0,231.0,310.0,68.0,100.0,SuperHit
+22,Krrish 3,374.0,231.0,313.0,61.0,94.0,Blockbuster
+23,Chennai Express,422.0,227.0,310.0,112.0,115.0,SuperHit
+24,Bharat,321.0,212.0,251.0,70.0,165.0,Hit
+25,Housefull 4,296.0,210.0,247.0,49.0,175.0,SuperHit
+26,Prem Ratan Dhan Payo,405.0,210.0,310.0,95.0,180.0,SuperHit
+27,Golmaal Again,308.0,205.0,262.0,45.0,80.0,Blockbuster
+28,Good Newwz,316.0,205.0,242.0,74.0,60.0,Blockbuster
+29,Mission Mangal,290.0,203.0,236.0,54.0,40.0,Blockbuster
+30,3 Idiots,460.0,202.0,274.0,186.0,55.0,All Time Blockbuster
+31,Happy New Year,397.0,199.0,295.0,102.0,150.0,Hit
+32,Ek Tha Tiger,320.0,198.0,263.0,57.0,75.0,Blockbuster
+33,Sooryavanshi,293.0,195.0,230.0,62.0,180.0,SuperHit
+34,2,744.0,190.0,551.0,193.0,543.0,Average
+35,Yeh Jawaani Hai Deewani,318.0,188.0,242.0,76.0,75.0,Blockbuster
+36,Bhool Bhulaiyaa 2,265.0,184.0,216.0,49.0,80.0,Blockbuster
+37,Bajirao Mastani,362.0,184.0,263.0,99.0,145.0,Hit
+38,Bang Bang!,340.0,174.0,270.0,70.0,160.0,Hit
+39,Race 3,300.0,169.0,217.0,83.0,170.0,Average
+40,Baaghi 2,257.0,165.0,211.0,45.0,75.0,Blockbuster
+41,Raees,285.0,164.0,227.0,57.0,92.0,Hit
+42,Kesari,208.0,155.0,183.0,25.0,100.0,Hit
+43,Total Dhamaal,232.0,155.0,183.0,48.0,105.0,SuperHit
+44,Dabangg 2,265.0,155.0,226.0,39.0,84.0,Blockbuster
+45,Chhichhore,211.0,153.0,180.0,31.0,70.0,Blockbuster
+46,Tanu Weds Manu Returns,258.0,150.0,214.0,44.0,39.0,Blockbuster
+47,Bodyguard,230.0,148.0,189.0,41.0,60.0,Blockbuster
+48,Dilwale,388.0,148.0,212.0,176.0,165.0,Average
+49,Super 30,210.0,147.0,171.0,39.0,60.0,SuperHit
+50,Tu Jhoothi Main Makkar,223.0,147.0,175.0,48.0,70.0,Hit
+51,Dabangg 3,218.0,146.0,178.0,40.0,90.0,Average
+52,Saaho,451.0,145.0,359.0,92.0,350.0,Below Average
+53,Thugs Of Hindostan,327.0,145.0,194.0,133.0,300.0,Disaster
+54,Dream Girl,195.0,141.0,163.0,32.0,30.0,SuperHit
+55,Singham Returns,216.0,140.0,200.0,16.0,105.0,SuperHit
+56,Dabangg,215.0,140.0,207.0,7.0,42.0,Blockbuster
+57,Gully Boy,235.0,139.0,164.0,71.0,60.0,SuperHit
+58,Judwaa 2,227.0,138.0,192.0,35.0,65.0,SuperHit
+59,Badhaai Ho,220.0,137.0,176.0,44.0,23.0,Blockbuster
+60,The Kerala Story,164.0,135.0,161.0,3.0,15.0,Blockbuster
+61,Toilet Ek Prem Katha,316.0,134.0,186.0,130.0,18.0,SuperHit
+62,Rowdy Rathore,198.0,133.0,172.0,26.0,45.0,Blockbuster
+63,M.S. Dhoni: The Untold Story,215.0,133.0,184.0,30.0,104.0,Hit
+64,Gangubai Kathiawadi,211.0,131.0,155.0,56.0,180.0,Hit
+65,Stree,182.0,129.0,167.0,15.0,30.0,Blockbuster
+66,Airlift,228.0,128.0,183.0,45.0,30.0,SuperHit
+67,Avatar: The Way of Water,17380.0,127.0,477.0,16902.0,3200.0,Blockbuster
+68,Rustom,216.0,127.0,177.0,39.0,50.0,SuperHit
+69,Raazi,195.0,123.0,158.0,37.0,37.0,Blockbuster
+70,Ready,185.0,120.0,153.0,31.0,40.0,Blockbuster
+71,Jab Tak Hai Jaan,235.0,120.0,167.0,67.0,50.0,SuperHit
+72,Tubelight,211.0,119.0,165.0,45.0,100.0,Average
+73,Baahubali,650.0,118.0,516.0,134.0,180.0,Blockbuster
+74,Agneepath,195.0,118.0,159.0,36.0,71.0,SuperHit
+75,Badrinath Ki Dulhania,201.0,117.0,162.0,38.0,44.0,SuperHit
+76,Goliyon Ki Rasleela Ram-Leela,218.0,117.0,158.0,59.0,88.0,Hit
+77,Jai Ho,186.0,117.0,150.0,36.0,65.0,Hit
+78,Jolly LLB 2,197.0,117.0,162.0,34.0,30.0,SuperHit
+79,Avengers End Game,18970.0,116.0,445.0,13335.0,2500.0,All Time Blockbuster
+80,Bala,162.0,116.0,135.0,27.0,35.0,SuperHit
+81,Ra.One,206.0,116.0,156.0,49.0,130.0,Below Average
+82,Ghajini,194.0,114.0,157.0,36.0,52.0,Blockbuster
+83,Ae Dil Hai Mushkil,240.0,113.0,158.0,82.0,70.0,SuperHit
+84,Holiday,178.0,112.0,153.0,24.0,50.0,SuperHit
+85,Barfi!,175.0,112.0,145.0,30.0,40.0,SuperHit
+86,Housefull 2,188.0,112.0,151.0,36.0,72.0,SuperHit
+87,Housefull 3,185.0,110.0,154.0,31.0,85.0,Hit
+88,Gold,158.0,109.0,141.0,17.0,75.0,Hit
+89,Kisi Ka Bhai Kisi Ki Jaan,182.0,109.0,130.0,52.0,100.0,Below Average
+90,Sonu Ke Titu Ki Sweety,156.0,108.0,139.0,17.0,40.0,Blockbuster
+91,Bhaag Milkha Bhaag,168.0,108.0,146.0,21.0,30.0,SuperHit
+92,Don 2: The Chase Continues,210.0,108.0,144.0,65.0,76.0,Hit
+93,Golmaal 3,162.0,106.0,143.0,18.0,40.0,Blockbuster
+94,Pushpa: The Rise (Part 1),350.0,106.0,313.0,36.0,150.0,SuperHit
+95,ABCD 2,166.0,106.0,146.0,19.0,65.0,SuperHit
+96,Ek Villain,155.0,105.0,142.0,12.0,39.0,SuperHit
+97,Son Of Sardaar,150.0,105.0,141.0,8.0,40.0,SuperHit
+98,Kaabil,178.0,104.0,145.0,32.0,35.0,Hit
+99,De De Pyaar De,139.0,104.0,113.0,26.0,75.0,Hit
+100,83,193.0,104.0,129.0,64.0,220.0,Disaster
+101,Bol Bachchan,175.0,103.0,144.0,30.0,65.0,Hit
+102,Raid,154.0,103.0,132.0,22.0,35.0,SuperHit
+103,2 States,173.0,102.0,142.0,30.0,50.0,SuperHit
+104,Grand Masti,145.0,102.0,130.0,14.0,35.0,SuperHit
+105,Race 2,162.0,101.0,131.0,30.0,85.0,Hit
+106,Singham,151.0,100.0,130.0,20.0,52.0,SuperHit
+107,Shivaay,147.0,100.0,138.0,8.0,100.0,Below Average
+108,Batla House,127.0,99.0,116.0,11.0,50.0,Hit
+109,Zero,178.0,96.0,120.0,57.0,200.0,Disaster
+110,Welcome Back,168.0,96.0,130.0,38.0,90.0,Average
+111,Baaghi 3,137.0,96.0,114.0,23.0,100.0,Below Average
+112,Baby,142.0,95.0,129.0,13.0,59.0,Hit
+113,Manikarnika: The Queen of Jhansi,142.0,94.0,116.0,25.0,101.0,Average
+114,Luka Chuppi,128.0,94.0,111.0,17.0,20.0,SuperHit
+115,Raajneeti,145.0,93.0,126.0,19.0,60.0,SuperHit
+116,Talaash,175.0,93.0,121.0,53.0,60.0,Hit
+117,Satyameva Jayate,121.0,90.0,116.0,5.0,45.0,Hit
+118,Bholaa,123.0,90.0,108.0,15.0,100.0,Average
+119,Singh Is Bliing,146.0,90.0,120.0,26.0,76.0,Average
+120,Zindagi Na Milegi Dobara,153.0,89.0,121.0,31.0,55.0,Hit
+121,Badla,140.0,88.0,104.0,36.0,20.0,SuperHit
+122,Gabbar is Back,135.0,87.0,118.0,17.0,72.0,Hit
+123,Rab Ne Bana Di Jodi,151.0,85.0,114.0,36.0,35.0,Blockbuster
+124,Kantara,407.0,84.0,363.0,44.0,16.0,All Time Blockbuster
+125,Kalank,146.0,84.0,99.0,47.0,150.0,Flop
+126,Pati Patni Aur Woh,109.0,84.0,99.0,10.0,40.0,Hit
+127,JugJugg Jeeyo,137.0,84.0,99.0,38.0,100.0,Above Average
+128,Fan,182.0,84.0,113.0,69.0,85.0,Average
+129,My Name Is Khan,224.0,82.0,111.0,112.0,85.0,Hit
+130,Brothers,140.0,82.0,114.0,25.0,105.0,Average
+131,Padman,205.0,81.0,105.0,100.0,20.0,SuperHit
+132,Oh My God,149.0,81.0,109.0,40.0,20.0,Blockbuster
+133,Veere Di Wedding,140.0,81.0,105.0,35.0,30.0,SuperHit
+134,Sairat,110.0,80.0,104.0,6.0,4.0,Blockbuster
+135,Dhoom 2,147.0,80.0,109.0,38.0,35.0,Blockbuster
+136,Fukrey Returns,112.0,80.0,108.0,4.0,22.0,SuperHit
+137,The Dirty Picture,116.0,79.0,107.0,8.0,28.0,SuperHit
+138,Piku,141.0,79.0,107.0,34.0,40.0,Hit
+139,Sui Dhaaga - Made In India,124.0,79.0,100.0,24.0,40.0,Hit
+140,Vikram Vedha,135.0,78.0,93.0,42.0,150.0,Below Average
+141,Gunday,130.0,78.0,106.0,24.0,51.0,Hit
+142,Om Shanti Om,148.0,78.0,105.0,42.0,38.0,Blockbuster
+143,Baadshaho,123.0,78.0,108.0,15.0,85.0,Flop
+144,Aashiqui 2,109.0,78.0,105.0,3.0,15.0,Blockbuster
+145,Dil Dhadakne Do,150.0,76.0,106.0,43.0,83.0,Below Average
+146,Humpty Sharma Ki Dulhania,119.0,76.0,106.0,12.0,33.0,Hit
+147,Gadar: Ek Prem Katha,132.0,76.0,127.0,5.0,18.0,All Time Blockbuster
+148,Baaghi,125.0,76.0,102.0,23.0,37.0,Hit
+149,Housefull,119.0,75.0,102.0,16.0,45.0,SuperHit
+150,Neerja,120.0,75.0,101.0,18.0,25.0,SuperHit
+151,Lage Raho Munna Bhai,124.0,74.0,100.0,24.0,22.0,Blockbuster
+152,Ram Setu,96.0,74.0,89.0,7.0,150.0,Below Average
+153,Andhadhun,438.0,74.0,95.0,343.0,17.0,SuperHit
+154,Dhadak,113.0,74.0,95.0,18.0,30.0,Hit
+155,Street Dancer 3D,102.0,73.0,87.0,15.0,100.0,Below Average
+156,Kapoor & Sons,143.0,73.0,98.0,44.0,35.0,Hit
+157,Hum Aapke Hain Koun..!,128.0,72.0,117.0,11.0,6.0,All Time Blockbuster
+158,Entertainment,104.0,72.0,97.0,6.0,80.0,Flop
+159,Krrish,121.0,71.0,100.0,20.0,35.0,Blockbuster
+160,Cocktail,121.0,71.0,96.0,25.0,45.0,Hit
+161,Student Of The Year 2,95.0,70.0,84.0,11.0,75.0,Below Average
+162,Khiladi 786,97.0,70.0,94.0,2.0,35.0,SuperHit
+163,Welcome,119.0,70.0,94.0,24.0,48.0,SuperHit
+164,Dishoom,119.0,70.0,94.0,25.0,55.0,Average
+165,Student Of The Year,96.0,70.0,92.0,4.0,59.0,Hit
+166,Raaz 3,99.0,69.0,94.0,4.0,28.0,SuperHit
+167,Hindi Medium,334.0,69.0,96.0,237.0,23.0,SuperHit
+168,Bhediya,96.0,68.0,81.0,15.0,60.0,Average
+169,Kedarnath,96.0,68.0,85.0,11.0,50.0,Hit
+170,Dear Zindagi,136.0,68.0,92.0,43.0,30.0,Hit
+171,Singh Is Kinng,122.0,67.0,94.0,28.0,50.0,SuperHit
+172,Chak De India,109.0,67.0,91.0,17.0,20.0,SuperHit
+173,Tamasha,136.0,67.0,87.0,49.0,87.0,Flop
+174,Drishyam,110.0,67.0,90.0,19.0,48.0,Hit
+175,Special 26,103.0,66.0,90.0,12.0,45.0,Hit
+176,Love Aaj Kal,117.0,66.0,86.0,31.0,50.0,Hit
+177,Article 15,94.0,66.0,79.0,15.0,25.0,SuperHit
+178,R... Rajkumar,100.0,65.0,88.0,11.0,56.0,Average
+179,Samrat Prithviraj,85.0,65.0,77.0,8.0,220.0,Disaster
+180,Parmanu The Story Of Pokhran,91.0,65.0,84.0,7.0,45.0,Hit
+181,Pink,104.0,65.0,88.0,15.0,23.0,Hit
+183,Pyaar Ka Punchnama 2,88.0,64.0,86.0,1.0,22.0,SuperHit
+184,Ajab Prem Ki Ghazab Kahani,101.0,64.0,83.0,18.0,25.0,SuperHit
+185,Satyagraha,91.0,63.0,86.0,4.0,60.0,Average
+186,Humshakals,103.0,63.0,85.0,17.0,64.0,Below Average
+187,Secret Superstar,912.0,63.0,81.0,831.0,15.0,SuperHit
+188,Taare Zameen Par,98.0,62.0,83.0,15.0,12.0,SuperHit
+189,Shubh Mangal Zyada Saavdhan,83.0,62.0,73.0,10.0,35.0,Average
+190,Rockstar,108.0,61.0,83.0,25.0,60.0,Average
+191,Laal Singh Chaddha,133.0,61.0,72.0,61.0,180.0,Disaster
+192,Once Upon Ay Time In Mumbai Dobaara!,91.0,61.0,82.0,9.0,75.0,Flop
+193,Tees Maar Khan,100.0,60.0,82.0,17.0,35.0,Hit
+194,Queen,93.0,60.0,82.0,10.0,20.0,SuperHit
+195,Wanted,87.0,60.0,81.0,5.0,50.0,Hit
+196,Race,103.0,60.0,84.0,18.0,45.0,Hit
+197,Udta Punjab,97.0,60.0,83.0,13.0,47.0,Hit
+198,Half Girlfriend,97.0,60.0,81.0,16.0,58.0,Average
+199,Befikre,99.0,60.0,83.0,15.0,64.0,Below Average
+200,Raanjhanaa,93.0,60.0,81.0,12.0,30.0,Hit
+201,Partner,99.0,60.0,83.0,16.0,28.0,SuperHit
+202,Besharam,95.0,59.0,80.0,14.0,83.0,Flop
+203,Malang,80.0,59.0,70.0,10.0,50.0,Above Average
+204,Shootout at Wadala,83.0,58.0,79.0,4.0,45.0,Above Average
+205,Mere Brother Ki Dulhan,94.0,58.0,78.0,15.0,28.0,Hit
+206,Mohenjo Daro,107.0,58.0,78.0,29.0,120.0,Flop
+207,Action Jackson,88.0,57.0,78.0,10.0,80.0,Flop
+208,Mary Kom,91.0,56.0,76.0,15.0,30.0,Hit
+209,Haider,79.0,55.0,75.0,3.0,45.0,Above Average
+210,Jodhaa Akbar,106.0,55.0,75.0,31.0,45.0,Above Average
+211,Mubarakan,93.0,55.0,76.0,16.0,63.0,Flop
+212,Once Upon a Time in Mumbaai,85.0,55.0,74.0,10.0,36.0,Hit
+213,Jaane Tu... Ya Jaane Na,82.0,55.0,74.0,7.0,15.0,SuperHit
+214,Yamla Pagla Deewana,88.0,55.0,74.0,14.0,28.0,Hit
+215,Kabhi Khushi Kabhie Gham,119.0,54.0,77.0,42.0,40.0,Blockbuster
+216,Boss,84.0,54.0,73.0,11.0,70.0,Flop
+217,Phantom,84.0,54.0,73.0,11.0,70.0,Flop
+218,Jagga Jasoos,83.0,54.0,75.0,8.0,125.0,Flop
+219,Dilwale Dulhania Le Jayenge,102.0,53.0,89.0,13.0,4.0,All Time Blockbuster
+220,Rang De Basanti,96.0,52.0,74.0,22.0,28.0,Hit
+221,Heropanti,75.0,52.0,71.0,4.0,25.0,Hit
+222,Ki & Ka,99.0,52.0,70.0,28.0,30.0,Hit
+223,102 Not Out,115.0,52.0,67.0,48.0,34.0,Hit
+224,Fanaa,102.0,51.0,70.0,32.0,30.0,SuperHit
+225,Hate Story 3,75.0,51.0,69.0,5.0,20.0,Hit
+226,Delhi Belly,87.0,51.0,69.0,17.0,23.0,Hit
+227,Kahaani,79.0,51.0,69.0,9.0,15.0,Hit
+228,Golmaal Returns,82.0,51.0,69.0,12.0,35.0,SuperHit
+229,Main Tera Hero,77.0,50.0,68.0,8.0,40.0,Hit
+230,Sachin A Billion Dreams,70.0,50.0,65.0,5.0,39.0,Average
+231,Sachin: A Billion Dreams,70.0,50.0,65.0,5.0,39.0,Average
+232,Bachchhan Paandey,70.0,50.0,59.0,10.0,165.0,Disaster
+233,Don: The Chase Begins Again,104.0,50.0,67.0,36.0,35.0,Hit
+234,Badlapur,78.0,50.0,67.0,11.0,20.0,Hit
+235,Kis Kisko Pyaar Karoon,72.0,49.0,67.0,4.0,18.0,Hit
+237,Kai Po Che!,74.0,49.0,66.0,7.0,30.0,Hit
+238,Bhool Bhulaiyaa,82.0,49.0,68.0,14.0,32.0,SuperHit
+239,Kites,87.0,49.0,66.0,21.0,65.0,Flop
+240,Raksha Bandhan,68.0,48.0,57.0,11.0,70.0,Below Average
+241,De Dana Dan,81.0,48.0,64.0,17.0,60.0,Average
+242,Marjaavaan,62.0,48.0,55.0,6.0,50.0,Average
+243,Murder 2,67.0,47.0,64.0,3.0,13.0,SuperHit
+244,Himmatwala,65.0,47.0,64.0,1.0,68.0,Flop
+245,Mardaani 2,67.0,47.0,57.0,10.0,30.0,Hit
+246,Heyy Babyy,83.0,47.0,63.0,20.0,30.0,Hit
+247,Kambakkht Ishq,85.0,47.0,63.0,22.0,50.0,Average
+248,Koi... Mil Gaya,80.0,46.0,70.0,9.0,28.0,SuperHit
+249,Kuch Kuch Hota Hai,91.0,46.0,63.0,27.0,14.0,All Time Blockbuster
+251,Thank You,72.0,46.0,62.0,9.0,60.0,Flop
+252,Shuddh Desi Romance,75.0,46.0,62.0,12.0,25.0,Hit
+253,Hichki,236.0,45.0,59.0,177.0,20.0,Hit
+254,October,67.0,45.0,59.0,8.0,40.0,Hit
+255,Veer,65.0,45.0,61.0,4.0,55.0,Below Average
+257,Guru,82.0,45.0,61.0,21.0,22.0,Hit
+258,New York,75.0,45.0,58.0,16.0,22.0,SuperHit
+259,Kyaa Super Kool Hai Hum,64.0,44.0,60.0,3.0,19.0,Hit
+260,Kabhi Alvida Naa Kehna,111.0,44.0,60.0,50.0,45.0,Average
+261,No Entry,73.0,44.0,62.0,10.0,22.0,SuperHit
+262,Roy,56.0,44.0,52.0,3.0,50.0,Flop
+263,K.G.F : Chapter 1,237.0,44.0,227.0,10.0,80.0,Blockbuster
+264,ABCD: Any Body Can Dance,61.0,44.0,57.0,3.0,20.0,Hit
+265,Dostana,81.0,44.0,59.0,22.0,40.0,Average
+266,Double Dhamaal,71.0,44.0,59.0,11.0,30.0,Hit
+267,Kaho Naa... Pyaar Hai,78.0,44.0,73.0,5.0,10.0,Blockbuster
+268,Heroine,70.0,43.0,58.0,12.0,35.0,Average
+270,Raja Hindustani,76.0,43.0,60.0,15.0,6.0,All Time Blockbuster
+271,Agent Vinod,71.0,43.0,56.0,14.0,55.0,Flop
+272,Shaandaar,73.0,43.0,59.0,13.0,69.0,Flop
+273,I Hate Luv Storys,72.0,42.0,58.0,14.0,24.0,Hit
+274,Romeo Akbar Walter,58.0,42.0,50.0,7.0,35.0,Above Average
+275,Shubh Mangal Saavdhan,64.0,42.0,59.0,4.0,25.0,Hit
+276,Madras Cafe,66.0,42.0,57.0,9.0,34.0,Average
+277,Desi Boyz,80.0,42.0,57.0,22.0,54.0,Flop
+278,Veer-Zaara,95.0,42.0,57.0,38.0,22.0,SuperHit
+279,Jannat 2,62.0,42.0,57.0,5.0,23.0,Hit
+280,Mohabbatein,76.0,41.0,56.0,20.0,19.0,Blockbuster
+281,Devdas,90.0,41.0,56.0,34.0,30.0,Hit
+282,All The Best: Fun Begins,58.0,41.0,53.0,4.0,40.0,Average
+283,Kaminey,70.0,41.0,55.0,14.0,33.0,Above Average
+284,Chashme Baddoor,59.0,41.0,55.0,3.0,22.0,Hit
+285,Pagalpanti,51.0,41.0,47.0,4.0,60.0,Flop
+286,Atithi Tum Kab Jaoge?,57.0,41.0,55.0,1.0,20.0,Hit
+287,Wazir,78.0,41.0,55.0,23.0,35.0,Average
+288,Batti Gul Meter Chalu,58.0,40.0,52.0,6.0,55.0,Flop
+289,Phir Hera Pheri,69.0,40.0,55.0,14.0,18.0,SuperHit
+290,Matru Ki Bijlee Ka Mandola,62.0,40.0,54.0,7.0,43.0,Flop
+291,Anjaana Anjaani,68.0,40.0,54.0,14.0,38.0,Average
+292,Bhagam Bhag,67.0,40.0,54.0,13.0,32.0,Hit
+293,Love Aaj Kal,57.0,40.0,47.0,10.0,60.0,Flop
+295,Shamshera,60.0,39.0,47.0,13.0,150.0,Disaster
+296,Aarakshan,64.0,39.0,53.0,10.0,45.0,Flop
+298,Ek Main Aur Ekk Tu,73.0,39.0,53.0,20.0,32.0,Average
+299,Border,64.0,39.0,62.0,2.0,10.0,All Time Blockbuster
+300,Bhoothnath Returns,58.0,39.0,52.0,5.0,32.0,Average
+301,Tevar,56.0,39.0,52.0,3.0,45.0,Flop
+302,Hum Saath-Saath Hain: We Stand United,80.0,39.0,65.0,15.0,17.0,Blockbuster
+303,Kal Ho Naa Ho,82.0,38.0,52.0,29.0,28.0,Hit
+304,Khatta Meetha,62.0,38.0,52.0,10.0,35.0,Average
+305,Blue,63.0,38.0,52.0,11.0,75.0,Flop
+306,Cirkus,60.0,38.0,45.0,15.0,70.0,Flop
+307,A Flying Jatt,56.0,38.0,52.0,4.0,45.0,Flop
+308,Ta Ra Rum Pum,68.0,38.0,51.0,16.0,28.0,Above Average
+309,Hasee Toh Phasee,63.0,37.0,51.0,11.0,25.0,Average
+310,Main Hoon Na,70.0,37.0,50.0,20.0,25.0,Hit
+311,MOM,65.0,37.0,51.0,13.0,35.0,Average
+312,Namastey London,71.0,37.0,51.0,19.0,21.0,SuperHit
+313,Shaadi Ke Side Effects,69.0,37.0,50.0,19.0,41.0,Flop
+314,Naam Shabana,55.0,36.0,48.0,7.0,25.0,Above Average
+315,Tanu Weds Manu,53.0,36.0,49.0,4.0,20.0,Hit
+316,Bachna Ae Haseeno,62.0,36.0,47.0,15.0,23.0,Hit
+317,Phata Poster Nikla Hero,63.0,36.0,49.0,14.0,40.0,Flop
+318,Thank God,48.0,36.0,42.0,6.0,70.0,Flop
+319,Fukrey,50.0,36.0,48.0,1.0,17.0,Hit
+320,Mastizaade,51.0,36.0,48.0,2.0,30.0,Average
+321,Bunty Aur Babli,62.0,36.0,50.0,12.0,12.0,SuperHit
+322,Tumhari Sulu,50.0,36.0,46.0,4.0,17.0,Hit
+323,Bullett Raja,53.0,36.0,48.0,4.0,51.0,Flop
+324,Ramaiya Vastavaiya,50.0,36.0,48.0,1.0,38.0,Flop
+325,Ghayal Once Again,57.0,35.0,48.0,9.0,50.0,Flop
+326,Force 2,58.0,35.0,48.0,10.0,40.0,Flop
+327,Mardaani,59.0,35.0,48.0,11.0,20.0,Hit
+328,Finding Fanny,63.0,35.0,48.0,15.0,25.0,Average
+329,Runway 34,50.0,35.0,41.0,9.0,60.0,Flop
+330,Vicky Donor,54.0,35.0,47.0,6.0,10.0,Hit
+331,Badmaash Company,50.0,34.0,47.0,3.0,20.0,Above Average
+332,Chhapaak,55.0,34.0,40.0,15.0,50.0,Flop
+333,Dil To Pagal Hai,58.0,34.0,47.0,11.0,9.0,Blockbuster
+334,English Vinglish,83.0,34.0,46.0,37.0,20.0,Hit
+335,Judgementall Hai Kya,49.0,34.0,41.0,8.0,35.0,Average
+336,Hamari Adhuri Kahani,51.0,34.0,46.0,5.0,38.0,Below Average
+337,Lagaan: Once Upon a Time in India,58.0,34.0,46.0,11.0,25.0,Hit
+338,Bareilly Ki Barfi,58.0,34.0,47.0,10.0,20.0,Hit
+339,Sarkar Raj,57.0,34.0,45.0,11.0,25.0,Average
+340,Yamla Pagla Deewana 2,48.0,33.0,45.0,2.0,30.0,Average
+341,Panipat,49.0,33.0,40.0,9.0,80.0,Disaster
+342,Hero,49.0,33.0,45.0,3.0,32.0,Average
+343,Bell Bottom,53.0,33.0,39.0,14.0,180.0,Flop
+344,Azhar,50.0,33.0,44.0,5.0,38.0,Flop
+345,Kill Dil,58.0,33.0,44.0,13.0,40.0,Flop
+346,Dhamaal,51.0,33.0,45.0,5.0,17.0,Hit
+347,Kahaani 2,55.0,33.0,44.0,11.0,25.0,Average
+348,Ladies vs Ricky Bahl,49.0,32.0,44.0,4.0,20.0,Average
+349,Uunchai,48.0,32.0,38.0,9.0,45.0,Hit
+350,Munna Michael,48.0,32.0,45.0,2.0,41.0,Flop
+351,Ghanchakkar,47.0,32.0,44.0,2.0,29.0,Below Average
+352,Jai Gangaajal,49.0,32.0,44.0,5.0,33.0,Below Average
+353,Rascals,49.0,32.0,44.0,5.0,45.0,Flop
+354,Jolly LLB,46.0,32.0,43.0,2.0,12.0,Hit
+356,Soorma,47.0,32.0,41.0,6.0,32.0,Above Average
+357,Commando 3,9.0,32.0,7.0,2.0,40.0,Above Average
+358,Shehzada,47.0,32.0,37.0,10.0,65.0,Flop
+359,Dhoom,48.0,31.0,42.0,6.0,11.0,SuperHit
+360,Karthikeya 2,117.0,31.0,102.0,15.0,15.0,Blockbuster
+361,Baar Baar Dekho,62.0,31.0,42.0,20.0,53.0,Flop
+362,Vivah,48.0,31.0,43.0,4.0,8.0,Blockbuster
+363,Patiala House,55.0,31.0,42.0,12.0,30.0,Flop
+364,Bhoot Part One,39.0,31.0,36.0,3.0,50.0,Flop
+365,Jab We Met,48.0,30.0,41.0,7.0,15.0,Hit
+366,Highway,52.0,30.0,41.0,11.0,25.0,Average
+367,Thappad,43.0,30.0,36.0,7.0,22.0,Average
+368,Talvar,47.0,30.0,41.0,6.0,15.0,Hit
+369,Delhi-6,50.0,30.0,39.0,10.0,40.0,Flop
+370,Raaz Reboot,43.0,30.0,40.0,2.0,31.0,Flop
+371,Peepli Live,47.0,30.0,40.0,6.0,12.0,Hit
+372,Paa,46.0,30.0,40.0,6.0,18.0,Hit
+373,Jism 2,42.0,30.0,40.0,1.0,11.0,Hit
+374,Ittefaq,51.0,30.0,38.0,12.0,20.0,Average
+375,Dum Laga Ke Haisha,42.0,30.0,40.0,2.0,12.0,Hit
+377,Thor: Love And Thunder,5550.0,29.0,127.0,3050.0,1900.0,Hit
+378,Golmaal: Fun Unlimited,46.0,29.0,39.0,6.0,11.0,SuperHit
+379,Mausam,52.0,29.0,39.0,12.0,45.0,Flop
+380,Shootout at Lokhandwala,44.0,29.0,39.0,4.0,17.0,Above Average
+381,Tashan,51.0,29.0,39.0,11.0,31.0,Average
+382,Chandni Chowk to China,53.0,29.0,37.0,15.0,65.0,Disaster
+383,Mujhse Shaadi Karogi,55.0,29.0,39.0,16.0,19.0,Hit
+384,Guzaarish,53.0,29.0,39.0,14.0,55.0,Disaster
+385,Action Replayy,48.0,29.0,39.0,8.0,55.0,Flop
+386,Garam Masala,54.0,29.0,39.0,15.0,17.0,Hit
+387,Lootera,46.0,29.0,39.0,7.0,30.0,Flop
+388,Dil Toh Baccha Hai Ji,40.0,28.0,39.0,1.0,27.0,Below Average
+389,Ferrari Ki Sawaari,44.0,28.0,37.0,6.0,15.0,Hit
+390,Happy Bhaag Jayegi,46.0,28.0,40.0,6.0,20.0,Hit
+391,Akira,43.0,28.0,38.0,5.0,30.0,Flop
+392,Pari,39.0,28.0,36.0,2.0,30.0,Above Average
+393,Players,47.0,28.0,38.0,8.0,55.0,Disaster
+394,London Dreams,45.0,28.0,38.0,6.0,45.0,Flop
+395,PM Narendra Modi,35.0,28.0,33.0,1.0,20.0,Above Average
+396,Doctor Strange In The Multiverse Of Madness,5400.0,28.0,147.0,3100.0,1500.0,Average
+397,Ishqiya,39.0,28.0,38.0,1.0,18.0,Hit
+398,Baazaar,40.0,28.0,36.0,4.0,35.0,Below Average
+399,Kyaa Kool Hain Hum 3,38.0,28.0,36.0,1.0,25.0,Average
+401,No Problem,44.0,27.0,37.0,6.0,35.0,Flop
+402,Manmarziyaan,41.0,27.0,35.0,6.0,30.0,Flop
+403,Wake Up Sid,47.0,27.0,36.0,11.0,18.0,Hit
+404,No One Killed Jessica,43.0,27.0,37.0,6.0,15.0,Hit
+405,Mangal Pandey: The Rising,51.0,27.0,37.0,13.0,34.0,Flop
+406,Sanam Re,39.0,27.0,37.0,1.0,25.0,Average
+407,Panga,40.0,27.0,32.0,8.0,49.0,Flop
+408,Dedh Ishqiya,43.0,27.0,36.0,6.0,35.0,Flop
+409,Sarbjit,41.0,27.0,36.0,4.0,30.0,Flop
+410,Force,40.0,27.0,36.0,3.0,28.0,Flop
+412,Jhoom Barabar Jhoom,48.0,27.0,36.0,11.0,25.0,Below Average
+414,Detective Byomkesh Bakshy,43.0,26.0,36.0,7.0,35.0,Flop
+416,Malamaal Weekly,41.0,26.0,36.0,5.0,6.0,SuperHit
+417,Raja Natwarlal,44.0,26.0,35.0,8.0,45.0,Disaster
+418,Singh Saab The Great,38.0,26.0,35.0,2.0,35.0,Flop
+420,Fashion,38.0,26.0,35.0,3.0,18.0,Above Average
+421,The Hero: Love Story of a Spy,44.0,26.0,40.0,3.0,33.0,Below Average
+422,Salaam Namaste,55.0,26.0,35.0,20.0,10.0,Hit
+423,Khakee,45.0,25.0,34.0,10.0,26.0,Average
+424,Karan Arjun,36.0,25.0,34.0,2.0,6.0,Blockbuster
+425,Karthik Calling Karthik,38.0,25.0,34.0,3.0,20.0,Below Average
+426,Raabta,39.0,25.0,35.0,3.0,45.0,Flop
+428,Biwi No.1,49.0,25.0,43.0,6.0,12.0,SuperHit
+429,Maine Pyaar Kyun Kiya?,45.0,25.0,35.0,10.0,15.0,Above Average
+430,Ek Thi Daayan,40.0,25.0,34.0,5.0,24.0,Below Average
+431,Teri Meri Kahaani,51.0,25.0,34.0,17.0,35.0,Flop
+434,Raaz-The Mystery Continues 2009,36.0,25.0,32.0,3.0,15.0,Hit
+436,Jazbaa,42.0,25.0,34.0,8.0,28.0,Flop
+437,Rock On!!,35.0,25.0,33.0,1.0,16.0,Hit
+438,Commando 2,39.0,25.0,33.0,5.0,26.0,Flop
+439,Rocky Handsome,35.0,25.0,33.0,1.0,40.0,Flop
+441,Go Goa Gone,38.0,24.0,33.0,4.0,19.0,Flop
+442,Jaan-E-Mann,45.0,24.0,33.0,12.0,25.0,Below Average
+443,Ishq,45.0,24.0,42.0,2.0,11.0,SuperHit
+444,Junglee,32.0,24.0,29.0,3.0,50.0,Flop
+445,Hum Dil De Chuke Sanam,51.0,24.0,33.0,17.0,16.0,Hit
+446,Sarkar,38.0,24.0,33.0,4.0,13.0,Above Average
+447,Katti Batti,42.0,24.0,33.0,9.0,30.0,Flop
+448,Mr. X,37.0,24.0,33.0,3.0,35.0,Flop
+449,Khoobsurat,53.0,24.0,33.0,20.0,18.0,Average
+450,Indian,41.0,24.0,40.0,1.0,13.0,Hit
+451,Enthiran,291.0,24.0,216.0,75.0,132.0,All Time Blockbuster
+452,D Day,39.0,23.0,32.0,7.0,26.0,Flop
+453,Bombay Velvet,43.0,23.0,31.0,11.0,115.0,Disaster
+454,Saand Ki Aankh,31.0,23.0,28.0,3.0,20.0,Above Average
+455,Bhoothnath,37.0,23.0,31.0,5.0,20.0,Average
+456,OK Jaanu,39.0,23.0,32.0,6.0,27.0,Flop
+457,Lakshya,40.0,23.0,32.0,7.0,30.0,Flop
+458,Dil Bole Hadippa!,43.0,23.0,31.0,11.0,25.0,Flop
+459,Thackeray,50.0,23.0,46.0,4.0,40.0,Above Average
+460,Dus,37.0,23.0,31.0,6.0,21.0,Average
+461,Omkara,41.0,23.0,31.0,10.0,25.0,Flop
+462,Black,39.0,23.0,32.0,7.0,20.0,Average
+463,Munna Bhai M.B.B.S.,34.0,22.0,31.0,3.0,10.0,Hit
+464,Ponniyin Selvan - Part 1,488.0,22.0,313.0,175.0,250.0,All Time Blockbuster
+465,36 China Town,36.0,22.0,30.0,5.0,18.0,Above Average
+466,Mission Kashmir,42.0,22.0,37.0,4.0,20.0,Average
+467,Salaam-e-Ishq: A Tribute to Love,51.0,22.0,31.0,20.0,35.0,Disaster
+468,Pardes,40.0,22.0,34.0,6.0,8.0,SuperHit
+469,Billu,46.0,22.0,29.0,16.0,24.0,Below Average
+470,Kismat Konnection,37.0,22.0,30.0,7.0,25.0,Flop
+472,Mere Baap Pehle Aap,35.0,22.0,30.0,5.0,18.0,Below Average
+473,Joker,32.0,22.0,30.0,1.0,47.0,Disaster
+474,Murder 3,33.0,22.0,30.0,2.0,15.0,Below Average
+475,Ek Ladki Ko Dekha Toh Aisa Laga,44.0,22.0,26.0,18.0,50.0,Flop
+476,Mrs Chatterjee Vs Norway,37.0,22.0,26.0,11.0,20.0,Hit
+478,Saawariya,39.0,22.0,27.0,12.0,45.0,Disaster
+479,Shamitabh,37.0,22.0,30.0,7.0,40.0,Disaster
+480,Hate Story 4,31.0,22.0,29.0,2.0,15.0,Hit
+481,Taal,50.0,22.0,34.0,15.0,15.0,Hit
+482,Aurangzeb,34.0,22.0,29.0,5.0,22.0,Flop
+484,Happy Phirr Bhag Jayegi,31.0,21.0,28.0,3.0,30.0,Flop
+485,Roohi,28.0,21.0,25.0,3.0,25.0,Average
+486,Apne,38.0,21.0,29.0,9.0,18.0,Average
+489,Gangs Of Wasseypur 2,31.0,21.0,29.0,2.0,18.0,Flop
+491,Black Panther: Wakanda Forever,6634.0,21.0,87.0,6546.0,1250.0,Hit
+492,Nautanki Saala,32.0,21.0,29.0,3.0,15.0,Average
+493,Pyaar To Hona Hi Tha,31.0,21.0,29.0,1.0,7.0,SuperHit
+494,Heropanti 2,28.0,21.0,25.0,2.0,80.0,Disaster
+495,Hum Tum,41.0,21.0,30.0,11.0,8.0,Hit
+497,Soldier,37.0,21.0,35.0,2.0,8.0,SuperHit
+499,Mulk,30.0,20.0,27.0,3.0,18.0,Above Average
+500,Baghban,43.0,20.0,28.0,14.0,12.0,Hit
+501,Luck,33.0,20.0,28.0,5.0,35.0,Flop
+502,Rangoon,39.0,20.0,28.0,11.0,60.0,Disaster
+503,U Me Aur Hum,39.0,20.0,27.0,11.0,25.0,Flop
+504,A Gentleman,38.0,20.0,28.0,9.0,65.0,Disaster
+506,Jersey,26.0,20.0,22.0,3.0,60.0,Disaster
+507,Life Partner,32.0,20.0,27.0,4.0,19.0,Below Average
+508,Blackmail,30.0,20.0,27.0,3.0,20.0,Above Average
+510,Karwaan,29.0,20.0,26.0,3.0,20.0,Average
+511,The Ghazi Attack,34.0,20.0,27.0,7.0,16.0,Average
+512,Dil Chahta Hai,38.0,20.0,32.0,6.0,13.0,Above Average
+513,Rocket Singh: Salesman of the Year,33.0,20.0,26.0,7.0,16.0,Above Average
+514,Kaante,41.0,20.0,32.0,9.0,28.0,Below Average
+515,Masti,34.0,20.0,27.0,6.0,10.0,Hit
+516,Waqt: The Race Against Time,42.0,20.0,29.0,13.0,16.0,Average
+517,The Accidental Prime Minister,26.0,20.0,24.0,2.0,25.0,Flop
+518,The Sky Is Pink,28.0,20.0,23.0,5.0,24.0,Flop
+519,Kidnap,33.0,20.0,27.0,6.0,27.0,Flop
+520,Raja,33.0,20.0,32.0,1.0,4.0,Blockbuster
+521,The Lunchbox,100.0,20.0,27.0,73.0,22.0,Average
+522,Sunday,31.0,20.0,27.0,4.0,20.0,Below Average
+523,Hulchul,31.0,20.0,28.0,3.0,10.0,Hit
+524,Tere Naal Love Ho Gaya,31.0,19.0,26.0,4.0,13.0,Average
+525,Badhaai Do,23.0,19.0,20.0,3.0,30.0,Disaster
+526,Taxi No. 9211,31.0,19.0,26.0,5.0,10.0,Above Average
+527,Krazzy 4,31.0,19.0,26.0,5.0,16.0,Average
+528,Chance Pe Dance,29.0,19.0,26.0,3.0,26.0,Flop
+530,Radhe Shyam,144.0,19.0,117.0,26.0,350.0,Disaster
+531,Ungli,29.0,19.0,26.0,3.0,35.0,Disaster
+532,Fitoor,39.0,19.0,26.0,13.0,70.0,Disaster
+533,Chalte Chalte,40.0,19.0,26.0,14.0,11.0,Hit
+534,Alone,29.0,19.0,25.0,3.0,18.0,Below Average
+536,Te3n,33.0,19.0,25.0,8.0,34.0,Flop
+537,Dolly Ki Doli,28.0,19.0,25.0,2.0,18.0,Below Average
+538,Bade Miyan Chote Miyan,35.0,19.0,32.0,2.0,10.0,Hit
+539,Barsaat,33.0,19.0,32.0,1.0,8.0,SuperHit
+540,Kaal,32.0,18.0,25.0,6.0,11.0,Average
+541,Dulhan Hum Le Jayenge,36.0,18.0,31.0,5.0,11.0,Hit
+542,Jabariya Jodi,25.0,18.0,22.0,3.0,30.0,Flop
+543,Hum Kisise Kum Nahin,29.0,18.0,26.0,2.0,18.0,Below Average
+544,Sarfarosh,29.0,18.0,25.0,4.0,8.0,Hit
+545,Jodi No.1,34.0,18.0,31.0,2.0,10.0,Hit
+546,Liger,56.0,18.0,48.0,7.0,125.0,Disaster
+547,Chori Chori Chupke Chupke,37.0,18.0,31.0,6.0,10.0,Hit
+548,Madaari,28.0,18.0,24.0,4.0,20.0,Flop
+550,Bluffmaster!,31.0,18.0,24.0,7.0,8.0,Above Average
+551,Gupt: The Hidden Truth,33.0,18.0,31.0,1.0,9.0,Hit
+552,Pyaar Kiya To Darna Kya,33.0,18.0,25.0,8.0,8.0,SuperHit
+553,Jayeshbhai Jordaar,17.0,17.0,21.0,3.0,1.0,Disaster
+555,Josh,34.0,17.0,28.0,5.0,15.0,Average
+556,Fool n Final,27.0,17.0,23.0,3.0,23.0,Flop
+557,Main Prem Ki Diwani Hoon,38.0,17.0,27.0,11.0,21.0,Flop
+558,Creature,25.0,17.0,23.0,1.0,25.0,Flop
+559,Break Ke Baad,29.0,17.0,23.0,5.0,19.0,Flop
+560,Aankhen,29.0,17.0,23.0,5.0,15.0,Average
+561,7 Khoon Maaf,27.0,17.0,23.0,3.0,21.0,Flop
+562,Qayamat: City Under Threat,28.0,17.0,23.0,4.0,16.0,Average
+563,Attack - Part 1,22.0,17.0,18.0,3.0,55.0,Flop
+564,Laaga Chunari Mein Daag,35.0,17.0,23.0,12.0,15.0,Below Average
+566,Baabul,38.0,17.0,23.0,15.0,22.0,Flop
+567,Mujhe Kucch Kehna Hai,29.0,17.0,28.0,1.0,7.0,SuperHit
+568,Cheeni Kum,31.0,17.0,23.0,8.0,11.0,Above Average
+569,Band Baaja Baaraat,30.0,17.0,23.0,6.0,13.0,Average
+570,Ajnabee,31.0,17.0,23.0,8.0,17.0,Average
+571,Selfiee,24.0,17.0,20.0,4.0,100.0,Disaster
+572,Aiyaary,30.0,17.0,21.0,8.0,65.0,Flop
+573,Refugee,34.0,17.0,27.0,6.0,14.0,Average
+576,Section 375,22.0,17.0,20.0,2.0,20.0,Below Average
+577,Bewafaa,30.0,16.0,22.0,7.0,18.0,Average
+578,Hum Aapke Dil Mein Rehte Hain,36.0,16.0,28.0,7.0,6.0,SuperHit
+579,Qarib Qarib Singlle,24.0,16.0,22.0,1.0,15.0,Average
+580,Yuvvraaj,28.0,16.0,22.0,6.0,45.0,Disaster
+581,Do Knot Disturb,27.0,16.0,22.0,5.0,28.0,Flop
+582,Parineeta,30.0,16.0,22.0,7.0,16.0,Below Average
+583,Mumbai Saga,22.0,16.0,19.0,2.0,40.0,Flop
+584,Jeet,28.0,16.0,27.0,1.0,6.0,SuperHit
+585,Humraaz,28.0,16.0,26.0,2.0,14.0,Average
+587,Awara Paagal Deewana,27.0,16.0,21.0,5.0,13.0,Average
+588,Kachche Dhaage,28.0,16.0,27.0,1.0,10.0,Hit
+589,Swades,33.0,16.0,22.0,11.0,20.0,Flop
+590,1921,22.0,15.0,20.0,2.0,15.0,Above Average
+591,Andaaz,28.0,15.0,21.0,7.0,8.0,Hit
+592,All Is Well,23.0,15.0,21.0,1.0,28.0,Flop
+593,Dhol,23.0,15.0,21.0,1.0,14.0,Average
+594,Zilla Ghaziabad,22.0,15.0,21.0,1.0,34.0,Flop
+595,Lajja,33.0,15.0,25.0,7.0,20.0,Flop
+596,Life in a Metro,24.0,15.0,21.0,3.0,8.0,Above Average
+597,Aitraaz,26.0,15.0,21.0,5.0,11.0,Average
+599,Ponniyin Selvan - Part 2,319.0,15.0,200.0,119.0,1.0,Hit
+600,Sholay,50.0,15.0,35.0,15.0,3.0,All Time Blockbuster
+601,1920 London,22.0,15.0,20.0,2.0,15.0,Below Average
+602,8 x 10 Tasveer,23.0,15.0,20.0,2.0,35.0,Disaster
+604,Tezz,26.0,15.0,20.0,5.0,52.0,Disaster
+605,Har Dil Jo Pyar Karega,32.0,15.0,25.0,6.0,13.0,Average
+608,Deewane Huye Paagal,26.0,15.0,20.0,6.0,20.0,Flop
+609,Tere Naam,24.0,15.0,19.0,4.0,12.0,Average
+611,Saathiya,28.0,15.0,23.0,4.0,7.0,Hit
+613,Mela,28.0,15.0,24.0,3.0,16.0,Flop
+614,Zanjeer,22.0,15.0,20.0,2.0,45.0,Disaster
+615,Haseena Maan Jaayegi,26.0,14.0,24.0,1.0,9.0,Hit
+618,Baadshah,31.0,14.0,24.0,7.0,10.0,Above Average
+619,Koyla,27.0,14.0,25.0,2.0,12.0,Average
+620,Jhund,23.0,14.0,17.0,5.0,1.0,Average
+621,Freaky Ali,21.0,14.0,19.0,1.0,18.0,Flop
+622,Hamara Dil Aapke Paas Hai,29.0,14.0,23.0,5.0,8.0,Hit
+623,Fiza,31.0,14.0,23.0,7.0,5.0,Hit
+624,Gulaab Gang,22.0,14.0,19.0,3.0,27.0,Flop
+625,Khiladiyon Ka Khiladi,25.0,14.0,19.0,5.0,6.0,SuperHit
+626,Maine Pyar Kiya,27.0,14.0,23.0,4.0,4.0,All Time Blockbuster
+627,Bhoot,21.0,14.0,20.0,1.0,6.0,Hit
+629,Humko Deewana Kar Gaye,27.0,14.0,19.0,8.0,17.0,Flop
+631,Yuva,23.0,14.0,19.0,3.0,11.0,Below Average
+633,Teraa Surroor,20.0,14.0,18.0,1.0,15.0,Average
+634,Dhadkan,26.0,14.0,18.0,7.0,9.0,Average
+635,Hindustan Ki Kasam,26.0,13.0,18.0,7.0,12.0,Average
+636,Bewakoofiyaan,21.0,13.0,18.0,3.0,19.0,Flop
+637,Judaai,27.0,13.0,24.0,3.0,6.0,SuperHit
+639,Hum Tumhare Hain Sanam,31.0,13.0,18.0,12.0,12.0,Average
+640,Ant-Man and the Wasp: Quantumania,3890.0,13.0,55.0,2155.0,1500.0,Average
+642,Dhan Dhana Dhan Goal,21.0,13.0,18.0,2.0,18.0,Flop
+643,Great Grand Masti,20.0,13.0,18.0,1.0,38.0,Disaster
+645,Company,23.0,13.0,21.0,2.0,8.0,Above Average
+646,Chup Chup Ke,24.0,13.0,18.0,6.0,10.0,Average
+648,Deewana Mastana,24.0,13.0,23.0,1.0,7.0,Hit
+652,Ghulam,23.0,13.0,21.0,1.0,7.0,Hit
+653,India's Most Wanted,18.0,13.0,15.0,2.0,30.0,Disaster
+654,Bbuddah...Hoga Terra Baap,21.0,13.0,17.0,3.0,20.0,Flop
+656,Judwaa,23.0,13.0,17.0,5.0,6.0,Hit
+657,Paheli,31.0,13.0,18.0,13.0,14.0,Below Average
+659,Major Saab,22.0,12.0,20.0,1.0,8.0,Hit
+660,Major,58.0,12.0,45.0,13.0,30.0,SuperHit
+661,Ujda Chaman,16.0,12.0,15.0,1.0,20.0,Flop
+664,Mujhse Dosti Karoge!,32.0,12.0,20.0,12.0,11.0,Below Average
+666,Halla Bol,19.0,12.0,17.0,2.0,20.0,Flop
+668,Kyon Ki,22.0,12.0,17.0,5.0,20.0,Flop
+672,God Tussi Great Ho,20.0,12.0,17.0,3.0,21.0,Flop
+673,Heroes,23.0,12.0,16.0,6.0,18.0,Flop
+674,Hungama,18.0,12.0,17.0,1.0,6.0,Above Average
+675,Hera Pheri,21.0,12.0,16.0,4.0,7.0,Hit
+676,Made In China,16.0,12.0,14.0,1.0,25.0,Flop
+678,Kya Kehna,21.0,12.0,19.0,1.0,4.0,SuperHit
+679,Mohra,22.0,12.0,16.0,6.0,3.0,Blockbuster
+683,Paan Singh Tomar,17.0,11.0,16.0,1.0,7.0,Average
+684,Yamla Pagla Deewana Phir Se,17.0,11.0,14.0,2.0,30.0,Disaster
+685,Fanney Khan,19.0,11.0,14.0,4.0,18.0,Flop
+686,Pyare Mohan,18.0,11.0,15.0,2.0,12.0,Flop
+687,Chup,19.0,11.0,13.0,5.0,25.0,Flop
+688,Ek Aur Ek Gyarah,19.0,11.0,16.0,3.0,8.0,Below Average
+689,Ab Tumhare Hawale Watan Saathiyo,19.0,11.0,15.0,3.0,20.0,Flop
+690,Bobby Jasoos,20.0,11.0,15.0,4.0,24.0,Flop
+691,Chal Mere Bhai,21.0,11.0,18.0,2.0,13.0,Flop
+694,Loveyatri,18.0,11.0,15.0,2.0,22.0,Flop
+695,Asoka,27.0,11.0,19.0,8.0,12.0,Below Average
+696,Arjun Pandit,31.0,11.0,24.0,7.0,9.0,Average
+697,Deewangee,17.0,11.0,15.0,1.0,9.0,Average
+700,An Action Hero,16.0,11.0,13.0,3.0,30.0,Flop
+702,Daag: The Fire,20.0,11.0,18.0,1.0,6.0,Hit
+703,Virasat,20.0,11.0,19.0,1.0,5.0,Hit
+705,Yes Boss,22.0,11.0,19.0,3.0,5.0,Hit
+706,Hadh Kar Di Aapne,19.0,11.0,17.0,1.0,7.0,Above Average
+708,Sye Raa Narasimha Reddy,246.0,11.0,216.0,30.0,275.0,Below Average
+709,Kurukshetra,18.0,11.0,17.0,1.0,8.0,Average
+710,Why Cheat India,14.0,10.0,13.0,1.0,25.0,Disaster
+711,Darr,21.0,10.0,19.0,1.0,3.0,Blockbuster
+712,Zameen,16.0,10.0,15.0,1.0,10.0,Below Average
+713,Jaani Dushman: Ek Anokhi Kahani,19.0,10.0,14.0,4.0,18.0,Flop
+714,Jhootha Hi Sahi,16.0,10.0,14.0,2.0,35.0,Disaster
+715,Table No. 21,17.0,10.0,14.0,3.0,8.0,Below Average
+717,Jaanwar,18.0,10.0,14.0,4.0,6.0,Hit
+718,Dil Se..,24.0,10.0,14.0,9.0,8.0,Hit
+719,Kunwara,19.0,10.0,18.0,1.0,9.0,Below Average
+720,Phir Bhi Dil Hai Hindustani,24.0,10.0,17.0,7.0,13.0,Flop
+721,Nayak: The Real Hero,19.0,10.0,17.0,2.0,20.0,Flop
+722,Tumko Na Bhool Paayenge,19.0,10.0,17.0,2.0,12.0,Flop
+723,Rock On 2,17.0,10.0,14.0,3.0,40.0,Disaster
+725,John Wick: Chapter 4,3050.0,10.0,61.0,1635.0,900.0,Hit
+726,Hello Brother,20.0,10.0,17.0,2.0,9.0,Below Average
+728,Gangaajal,16.0,10.0,14.0,2.0,7.0,Average
+730,Albela,18.0,10.0,17.0,1.0,10.0,Below Average
+734,Paltan,14.0,10.0,13.0,1.0,25.0,Flop
+736,Bheja Fry 2,17.0,10.0,13.0,3.0,9.0,Average
+737,Vikram,414.0,10.0,289.0,125.0,120.0,All Time Blockbuster
+738,Firangi,16.0,10.0,13.0,2.0,25.0,Flop
+745,Shaadi Se Pehle,15.0,10.0,13.0,2.0,10.0,Flop
+746,Fida,16.0,10.0,15.0,1.0,10.0,Below Average
+747,Tera Jadoo Chal Gayaa,18.0,9.0,16.0,2.0,8.0,Average
+753,Sabse Bada Khiladi,16.0,9.0,12.0,3.0,4.0,Hit
+755,Aap Mujhe Achche Lagne Lage,19.0,9.0,14.0,4.0,10.0,Flop
+757,Aan: Men at Work,14.0,9.0,12.0,1.0,15.0,Disaster
+760,Sanam Teri Kasam,15.0,9.0,12.0,2.0,18.0,Flop
+761,Diljale,15.0,9.0,12.0,3.0,5.0,Hit
+763,Anek,9.0,9.0,10.0,1.0,1.0,Disaster
+766,Pyar ka Punchnama,17.0,9.0,12.0,5.0,9.0,Average
+767,Pal Pal Dil Ke Paas,12.0,9.0,10.0,2.0,30.0,Disaster
+768,Drona,18.0,8.0,13.0,4.0,35.0,Disaster
+769,Haan Maine Bhi Pyaar Kiya,19.0,8.0,12.0,7.0,11.0,Flop
+770,Bhai,14.0,8.0,13.0,1.0,5.0,Hit
+771,International Khiladi,16.0,8.0,11.0,4.0,7.0,Average
+773,Dil Kya Kare,18.0,8.0,14.0,4.0,9.0,Flop
+774,Banjo,13.0,8.0,11.0,1.0,20.0,Flop
+777,Arjun Patiala,12.0,8.0,10.0,2.0,25.0,Disaster
+778,Guddu Rangeela,13.0,8.0,11.0,1.0,15.0,Disaster
+779,Dosti: Friends Forever,22.0,8.0,11.0,10.0,15.0,Flop
+780,Luv Shuv Tey Chicken Khurana,12.0,8.0,11.0,1.0,11.0,Flop
+781,Ghayal,20.0,8.0,16.0,4.0,2.0,Blockbuster
+783,Godfather,107.0,8.0,87.0,20.0,100.0,Flop
+785,Trimurti,14.0,8.0,13.0,1.0,10.0,Flop
+788,Dhaai Akshar Prem Ke,16.0,8.0,12.0,3.0,8.0,Flop
+789,Shikara,11.0,8.0,10.0,1.0,25.0,Flop
+791,Sita Ramam,94.0,8.0,77.0,17.0,25.0,Blockbuster
+793,Mere Yaar Ki Shaadi Hai,15.0,8.0,12.0,2.0,5.0,Above Average
+794,Welcome 2 Karachi,13.0,8.0,11.0,2.0,25.0,Disaster
+800,Varisu,297.0,7.0,208.0,89.0,200.0,SuperHit
+801,Tango Charlie,12.0,7.0,11.0,1.0,14.0,Flop
+802,Main Khiladi Tu Anari,13.0,7.0,10.0,3.0,3.0,Hit
+803,Talaash: The Hunt Begins...,14.0,7.0,10.0,4.0,9.0,Flop
+804,Ram Gopal Varma Ki Aag,13.0,7.0,11.0,2.0,20.0,Disaster
+809,Yeh Raaste Hain Pyaar Ke,14.0,7.0,12.0,2.0,8.0,Below Average
+812,Dus Kahaniyaan,12.0,7.0,10.0,2.0,20.0,Disaster
+816,777 Charlie,102.0,7.0,96.0,5.0,15.0,Blockbuster
+824,Main Aurr Mrs Khanna,14.0,7.0,9.0,4.0,28.0,Disaster
+828,Godzilla vs. Kong,2500.0,7.0,55.0,1900.0,1300.0,Hit
+830,Aap Ki Khatir,14.0,7.0,11.0,3.0,15.0,Flop
+831,Raman Raghav 2.0,10.0,7.0,9.0,1.0,10.0,Flop
+833,Dil,17.0,7.0,12.0,5.0,2.0,Blockbuster
+840,Khamoshi: The Musical,14.0,6.0,11.0,2.0,6.0,Flop
+842,Goodbye,10.0,6.0,8.0,2.0,25.0,Flop
+843,Prassthanam,10.0,6.0,8.0,2.0,40.0,Disaster
+844,Sapoot,12.0,6.0,10.0,2.0,5.0,Average
+845,Jeena Sirf Merre Liye,12.0,6.0,10.0,1.0,8.0,Flop
+846,Deewane,12.0,6.0,10.0,1.0,8.0,Flop
+847,Armaan,13.0,6.0,9.0,4.0,8.0,Flop
+848,Dil Ne Jise Apna Kahaa,12.0,6.0,9.0,3.0,10.0,Flop
+850,Kahin Pyaar Na Ho Jaaye,13.0,6.0,11.0,2.0,8.0,Flop
+851,Sooryavansham,12.0,6.0,11.0,1.0,7.0,Flop
+855,Vijaypath,11.0,6.0,8.0,2.0,2.0,SuperHit
+856,Blank,8.0,6.0,7.0,1.0,30.0,Disaster
+857,Chef,10.0,6.0,8.0,1.0,13.0,Disaster
+859,Dilwale,12.0,6.0,8.0,3.0,2.0,SuperHit
+861,Tezaab,16.0,6.0,11.0,5.0,1.0,Blockbuster
+868,Top Gun: Maverick,12250.0,5.0,51.0,12199.0,1300.0,Hit
+870,Sangharsh,10.0,5.0,7.0,2.0,4.0,Average
+871,Jung,10.0,5.0,9.0,1.0,4.0,Above Average
+872,Rudraksh,9.0,5.0,8.0,1.0,15.0,Disaster
+873,Kuttey,8.0,5.0,6.0,1.0,50.0,Disaster
+874,Khiladi 420,10.0,5.0,7.0,2.0,8.0,Flop
+880,Aarzoo,11.0,5.0,7.0,4.0,8.0,Flop
+885,Aflatoon,9.0,5.0,7.0,2.0,4.0,Below Average
+886,Bobby,29.0,5.0,10.0,19.0,1.0,Blockbuster
+889,Dil Ka Rishta,13.0,5.0,7.0,5.0,8.0,Flop
+890,Rehnaa Hai Terre Dil Mein,10.0,5.0,8.0,1.0,5.0,Below Average
+892,Yeh Hai Jalwa,9.0,5.0,7.0,1.0,7.0,Flop
+893,Sirf Tum,10.0,5.0,9.0,1.0,2.0,Hit
+895,Bangistan,8.0,5.0,7.0,1.0,25.0,Disaster
+898,Hum Hain Rahi Pyar Ke,9.0,5.0,8.0,1.0,2.0,SuperHit
+900,Lahu Ke Do Rang,9.0,5.0,6.0,2.0,5.0,Flop
+902,Kyaa Dil Ne Kahaa,8.0,5.0,7.0,1.0,6.0,Below Average
+907,Game Over,16.0,4.0,14.0,1.0,20.0,Below Average
+909,The Zoya Factor,8.0,4.0,6.0,1.0,30.0,Disaster
+911,Dasara,118.0,4.0,96.0,22.0,65.0,SuperHit
+915,Helicopter Eela,7.0,4.0,5.0,1.0,15.0,Flop
+923,Khiladi,7.0,4.0,6.0,1.0,2.0,SuperHit
+928,Dil Hai Ke Manta Nahin,7.0,4.0,6.0,1.0,1.0,Hit
+932,Jo Jeeta Wohi Sikander,6.0,3.0,5.0,1.0,2.0,Hit
+940,Darbar,247.0,3.0,173.0,74.0,200.0,Below Average
+941,Insaaf,6.0,3.0,5.0,1.0,3.0,Flop
+953,Disco Dancer,100.0,3.0,6.0,94.0,2.0,Hit
+954,Seeta Aur Geeta,16.0,3.0,6.0,10.0,1.0,Blockbuster
+960,Buddha Mar Gaya,5.0,3.0,4.0,1.0,4.0,Flop
+963,Chori Chori,5.0,3.0,4.0,1.0,6.0,Flop
+967,The Batman,1900.0,2.0,43.0,900.0,1.0,Average
+970,Angaaray,5.0,2.0,3.0,1.0,3.0,Flop
+971,Qayamat Se Qayamat Tak,5.0,2.0,4.0,1.0,1.0,SuperHit
+979,Master,223.0,2.0,178.0,44.0,135.0,Blockbuster
+988,Uncharted,1100.0,2.0,10.0,670.0,900.0,Flop
+989,Pailwaan,52.0,2.0,48.0,4.0,40.0,Average
